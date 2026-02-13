@@ -1,0 +1,15 @@
+body {
+  display: grid;
+  place-items: center;
+  background-color: lightgrey;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+}
+
+img {
+  max-width: 250px;
+  height: auto;
+}
